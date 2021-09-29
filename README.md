@@ -6,6 +6,5 @@
 - 🔭 I’m currently working on my Math/CS degree
 - 🌱 I’m currently tinkering with Swift development
 - 👯 I’m always looking to learn new things 
-- 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: The more you learn the less you know. 
 
